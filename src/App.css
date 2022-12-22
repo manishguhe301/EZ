@@ -1,0 +1,418 @@
+.App {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: start;
+}
+
+.EZSidebar {
+    display: flex;
+    flex-direction: column;
+}
+
+.EZSidebar2 {
+    top: 0px;
+    left: 0px;
+    width: 72px;
+    height: 1080px;
+    background: transparent linear-gradient(90deg, #112949 0%, #000000 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 3px 0px 3px #00000029;
+    opacity: 1;
+}
+
+.EzWroksLOgo {
+    margin-top: 32px;
+    left: 8px;
+    width: 56px;
+    height: 53px;
+    margin-right: 8px;
+    margin-left: 8px;
+    background: #eb9cba 0% 0% no-repeat padding-box;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.boxes {
+    margin-top: 26px;
+    margin-right: 16px;
+    margin-left: 16px;
+    width: 40px;
+    height: 40px;
+    background: #eb9cba 0% 0% no-repeat padding-box;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.ClientSSECTION {
+    top: 0px;
+    left: 72px;
+    width: 465px;
+    height: 109px;
+    box-shadow: 0px 1px 6px #00000029;
+    opacity: 1;
+}
+
+.client {
+    display: inline;
+    margin-left: 8px;
+    opacity: 1;
+    font-size: 32px;
+}
+
+.Svg_Sort {
+    width: 19px;
+    height: 16px;
+    margin-left: 8px;
+    opacity: 1;
+}
+
+.CreationTime {
+    margin-left: 5px;
+    letter-spacing: 0px;
+    font-size: 15px;
+    color: #3cc3f2;
+    opacity: 1;
+}
+
+.plus_Square {
+    margin-left: 195px;
+    margin-top: 10px;
+    width: 32px;
+    height: 32px;
+    opacity: 1;
+}
+
+.Input_Group {
+    display: flex;
+}
+
+input {
+    margin: 8px;
+    width: 440px;
+    height: 33px;
+    opacity: 1;
+    border-radius: 8px transparent;
+    outline: none;
+    font-size: 15px;
+}
+
+.April2021 {
+    margin-top: 8px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 465px;
+    height: 31px;
+    background-color: #00000009;
+    opacity: 1;
+    box-shadow: 0px 1px 6px #00000029;
+}
+
+.April2021 span {
+    margin-left: 8px;
+}
+
+.svg_Arrow {
+    margin-right: 8px;
+}
+
+.companyArea {
+    width: 454px;
+    height: 926px;
+    opacity: 1;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.company {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.CompanyData {
+    width: 445px;
+    height: 62px;
+    margin-left: 8px;
+    margin-top: 10px;
+    background: #112949 0% 0% no-repeat padding-box;
+    box-shadow: 2px 2px 3px #00000029;
+    border-radius: 8px;
+    opacity: 1;
+    color: black;
+}
+
+.CompanyName {
+    letter-spacing: 0px;
+    margin-top: 6px;
+    color: #9cbdeb;
+    margin-left: 8px;
+}
+
+.CCDE {
+    margin-top: 6px;
+    margin-right: 8px;
+    color: #f3f3f3;
+}
+
+.CompanyEntities {
+    color: #f3f3f3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 8px;
+}
+
+.profileSection {
+    top: 0px;
+    left: 537px;
+    width: 1383px;
+    height: 72px;
+    box-shadow: 0px 1px 6px #00000029;
+    opacity: 1;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    font-size: 20px;
+}
+
+.svg_user {
+    margin-right: 30px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.Company_Lucas {
+    top: 72px;
+    left: 537px;
+    width: 1383px;
+    height: 204px;
+    box-shadow: 0px 1px 6px #00000029;
+    opacity: 1;
+}
+
+.svg_pdf {
+    margin-top: 16px;
+    margin-left: 22px;
+}
+
+.Lucas_Films {
+    display: flex;
+    align-items: center;
+}
+
+.text_Lucas {
+    margin-top: 25px;
+    margin-left: 8px;
+    opacity: 1;
+    font-size: 18px;
+}
+
+.btn_EDIT {
+    margin-top: 20px;
+    width: 156px;
+    height: 41px;
+    background: #3cc3f2 0% 0% no-repeat padding-box;
+    border: 1px solid #3cc3f2;
+    border-radius: 8px;
+    opacity: 1;
+    margin-left: 920px;
+    margin-right: 16px;
+}
+
+.LogoCodeDomain {
+    display: inline-flex;
+}
+
+.Company_Code {
+    top: 152px;
+    left: 553px;
+    width: 110px;
+    height: 42px;
+    opacity: 1;
+    margin-left: 22px;
+    margin-top: 16px;
+}
+
+.Domains {
+    width: 148px;
+    height: 99px;
+    opacity: 1;
+    margin-top: 16px;
+    margin-left: 490px;
+}
+
+.Entities {
+    width: 1384px;
+    height: 32px;
+    box-shadow: 0px 1px 6px #00000029;
+    opacity: 1;
+    display: flex;
+    align-items: center;
+}
+
+.span1 {
+    margin-left: 13px;
+    text-decoration: underline 4px solid black;
+}
+
+.span2,
+.span3 {
+    margin-left: 16px;
+}
+
+.MainEntity {
+    width: 1351px;
+    height: 752px;
+    opacity: 1;
+    margin: 16px;
+    box-shadow: 1px 1px 3px #00000029;
+    border-radius: 10px;
+}
+
+.Entities4 {
+    top: 344px;
+    left: 573px;
+    width: 77px;
+    height: 24px;
+    opacity: 1;
+    margin-left: 20px;
+    margin-top: 16px;
+}
+
+.billingLocationSection {
+    margin-left: 40px;
+    margin-top: 17px;
+    display: flex;
+    align-content: center;
+    justify-content: start;
+}
+
+.EntityName {
+    margin-left: 234px;
+}
+
+.EntityCode {
+    margin-left: 209px;
+}
+
+.MSLAValid {
+    margin-left: 107px;
+}
+
+.FileSharing {
+    margin-left: 150px;
+}
+
+.DescriptionArea {
+    width: 1313px;
+    height: 527px;
+    background: #f7fbfc 0% 0% no-repeat padding-box;
+    box-shadow: 1px 1px 3px #00000029;
+    border-radius: 8px;
+    opacity: 1;
+    margin-right: 22;
+    margin-left: 16px;
+    margin-top: 8px;
+}
+
+.Riyadh {
+    top: 412px;
+    left: 569px;
+    width: 1313px;
+    height: 49px;
+    background: #f7fbfc 0% 0% no-repeat padding-box;
+    box-shadow: 1px 1px 3px #00000029;
+    border-radius: 8px 8px 0px 0px;
+    opacity: 1;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.svg_Arrow_up {
+    font-weight: 800;
+}
+
+.address {
+    margin-left: 32px;
+    margin-top: 10px;
+}
+
+.AdressArea {
+    display: inline-flex;
+}
+
+.CompanyRegVal {
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+.ChargeCodePoNo {
+    margin-top: 17px;
+}
+
+.DurationOfStorage {
+    margin-top: 16px;
+}
+
+.TaxRegistrationNoTRN {
+    margin-left: 180px;
+    margin-top: 10px;
+}
+
+.MSLA {
+    opacity: 1;
+}
+
+.servicesUnits {
+    width: 1252px;
+    height: 182px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 1px 1px 3px #00000029;
+    border-radius: 8px;
+    opacity: 1;
+    margin-left: 24px;
+    margin-right: 37px;
+    margin-top: 16px;
+}
+
+.Data {
+    width: 1209px;
+    height: 41px;
+    background: #f7fbfc 0% 0% no-repeat padding-box;
+    box-shadow: 1px 1px 3px #00000029;
+    opacity: 1;
+    margin-left: 32px;
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.anotherCompanies {
+    width: 1313px;
+    height: 51px;
+    background: #f7fbfc 0% 0% no-repeat padding-box;
+    box-shadow: 1px 1px 3px #00000029;
+    border-radius: 8px;
+    opacity: 1;
+    margin-top: 16px;
+    margin-left: 16px;
+    color: #ea7b2c;
+    display: flex;
+    align-items: center;
+}
+
+.another {
+    width: 1313px;
+    height: 51px;
+    background: #F7FBFC 0% 0% no-repeat padding-box;
+    box-shadow: 1px 1px 3px #00000029;
+    border-radius: 8px;
+    opacity: 1;
+    margin-top: 16px;
+    margin-left: 16px;
+    display: flex;
+    align-items: center;
+}
